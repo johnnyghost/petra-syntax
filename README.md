@@ -2,4 +2,4 @@
 
 A syntax theme for atom.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![petra-syntax](https://cloud.githubusercontent.com/assets/1117330/9372166/4ddf60ee-46d3-11e5-97af-62d301cc29b2.png)
