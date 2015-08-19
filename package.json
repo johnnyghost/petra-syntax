@@ -8,7 +8,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/petra-syntax",
+  "repository": "https://github.com/johnnyghost/petra-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
