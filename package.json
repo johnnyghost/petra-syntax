@@ -1,0 +1,16 @@
+{
+  "name": "petra-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A short description of your syntax theme",
+  "author": "johnnyghost",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/petra-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
