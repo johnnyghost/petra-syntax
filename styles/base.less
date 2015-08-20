@@ -240,12 +240,14 @@ atom-text-editor .search-results .marker.current-result .region,
 }
 
 .meta {
-  .punctuation {
-      color: @green;
-  }
   .css {
       .punctuation {
-          color: @yellow;
+          &.definition {
+              color: @pink;
+              &.entity {
+                  color: @yellow;
+              }
+          }
       }
       .constant {
           color: @pink;
@@ -253,6 +255,10 @@ atom-text-editor .search-results .marker.current-result .region,
   }
   .string {
       color: @white;
+
+      &.json {
+          color: @yellow;
+      }
   }
   &.class {
     color: @purple;
