@@ -1,13 +1,16 @@
 {
   "name": "petra-syntax",
   "theme": "syntax",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A dark syntax theme for atom.",
   "author": "johnnyghost",
   "keywords": [
     "syntax",
     "theme",
-    "dark"
+    "dark",
+    "gold",
+    "purple",
+    "pink"
   ],
   "repository": "https://github.com/johnnyghost/petra-syntax.git",
   "license": "MIT",
