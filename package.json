@@ -1,7 +1,7 @@
 {
   "name": "petra-syntax",
   "theme": "syntax",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A dark syntax theme for atom.",
   "author": "johnnyghost",
   "keywords": [
