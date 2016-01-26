@@ -72,8 +72,8 @@ atom-text-editor .search-results .marker.current-result .region,
 
 .entity {
   &.name.type {
-    color: @purple;
-    text-decoration: underline;
+    color: @yellow;
+    font-weight: bold;
   }
 
   &.other.inherited-class {
@@ -82,7 +82,6 @@ atom-text-editor .search-results .marker.current-result .region,
 }
 
 .keyword {
-  // color: @green;
 
   &.control {
     color: @pink;
@@ -136,6 +135,11 @@ atom-text-editor .search-results .marker.current-result .region,
 
   &.parameter.function {
     color: @syntax-text-color;
+  }
+
+  &.other {
+    color: @yellow;
+    font-weight: bold;
   }
 }
 
