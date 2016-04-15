@@ -11,7 +11,9 @@
     "gold",
     "purple",
     "pink",
-    "ghost"
+    "ghost",
+    "ES6",
+    "javascript"
   ],
   "repository": "https://github.com/johnnyghost/petra-syntax.git",
   "license": "MIT",
