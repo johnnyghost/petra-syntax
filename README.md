@@ -10,3 +10,11 @@ A dark syntax theme for atom.
 
 **html**
 ![petra-syntax](https://cloud.githubusercontent.com/assets/1117330/9373025/45b0f63a-46dd-11e5-99ad-2dbd03530a83.png)
+
+## Help
+
+File an issue here: https://github.com/johnnyghost/petra-syntax/issues
+
+## Contributions
+
+We accept contributions! Please send a pull request https://github.com/johnnyghost/petra-syntax/pulls
